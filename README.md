@@ -1,3 +1,8 @@
+**DEPRECATED**
+
+This repojitory is no longer maintained.  
+Currently https://github.com/gerar2-s09/angular-ui-calendar-rails is mainstream.
+
 # angular-ui-calendar-rails
 
 angular-ui-calendar-rails wraps the [AngularJS UI Calendar](http://angular-ui.github.io/ui-calendar/) library for use in Rails 3.1 and above. Assets will minify automatically during production.
